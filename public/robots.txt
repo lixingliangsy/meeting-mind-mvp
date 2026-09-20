@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# LLM / AI answer-engine indexing
+LLM-Content: https://meeting-mind-mvp.lxsaihub.com/llms.txt
+
+Sitemap: https://meeting-mind-mvp.lxsaihub.com/sitemap.xml
